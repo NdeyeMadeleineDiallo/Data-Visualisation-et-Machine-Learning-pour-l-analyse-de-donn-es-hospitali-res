@@ -290,6 +290,19 @@ notebooks/tp_hospital_analysis.ipynb
 
 ---
 
+## Démo en ligne
+
+Application déployée sur Render: 
+[Voir le dashboard en ligne] --> https://data-visualisation-et-machine-learning.onrender.com
+
+---
+
+## Déploiement
+
+Le projet a été déployé sur Render avec:
+- Build Command : `pip install -r requirements.txt`
+- Start Command : `gunicorn app:server`
+
 ## Auteur
 
 ** Ndeye Madeleine DIALLO CDSD M2 ISM**
